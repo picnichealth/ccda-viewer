@@ -204,11 +204,6 @@ span.tocup,span.tocdown{
 .intelsoft:hover{
 	border-top:2px solid #1f8dd6;
 }
-.intelsoft:hover::after{
-	content:' http://intelsoft.com.au ';
-	float:right;
-	padding-right:1em;
-}
 #cdabody{
 	padding-left:0.5em;
 }
